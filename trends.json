@@ -15,6 +15,57 @@
           "topic": "D Testing"
         }
       ]
+    },
+    {
+      "chapterId": 4,
+      "chapterName": "Getting Started",
+      "topics": [
+         {
+          "trendId": 1,
+          "botFileName": "vfb01_en_quick_refresher_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "A Quick Refresher"
+        },
+        {
+          "trendId": 2,
+          "botFileName": "vfb01_en_numbers_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Numbers"
+        },
+        {
+          "trendId": 3,
+          "botFileName": "vfb01_en_colors_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Colors"
+        },
+         {
+          "trendId": 4,
+          "botFileName": "vfb01_en_telling_time_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Telling Time"
+        },
+        {
+          "trendId": 5,
+          "botFileName": "vfb01_en_test_01_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Vocab Test #1"
+        }
+      ]
     }
   ]
 }
