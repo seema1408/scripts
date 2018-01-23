@@ -1,0 +1,65 @@
+{
+  "productId": 27,
+  "chapters": [
+    {
+      "chapterId": 3,
+      "chapterName": "Dev Testing",
+      "topics": [
+         {
+          "trendId": 9902,
+          "botFileName": "cog",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Options Test"
+        },
+        {
+          "trendId": 9903,
+          "botFileName": "burmese_testing_UNICODE",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "BT"
+        },
+        {
+          "trendId": 9904,
+          "botFileName": "master_bot_testing",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "VM2"
+        },
+        {
+          "trendId": 9905,
+          "botFileName": "dm_demo_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "DM"
+        },
+        {
+          "trendId": 9906,
+          "botFileName": "delete",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "SEED"
+        },
+         {
+          "trendId": 9907,
+          "botFileName": "dm_demo_bot_01_youtube",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "DM Youtube"
+        }
+      ]
+    }
+  ]
+}
