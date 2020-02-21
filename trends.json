@@ -69,6 +69,84 @@
           "topic": "Aptness for the Job 2"
         }
       ]
+    },
+    {
+      "chapterId": 2,
+      "chapterName": "Interview Skills in MLG Part 1",
+      "topics": [
+        {
+          "trendId": 8,
+          "botFileName": "unl_isfb_en_strengths_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Strengths"
+        },
+         {
+          "trendId": 9,
+          "botFileName": "unl_isfb_en_weaknesses_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Weaknesses"
+        },
+        {
+          "trendId": 10,
+          "botFileName": "unl_isfb_en_reason_for_leaving_current_job_1_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Reason for Leaving Current Job 1"
+        },
+         {
+          "trendId": 11,
+          "botFileName": "unl_isfb_en_reason_for_leaving_current_job_2_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Reason for Leaving Current Job 2"
+        },
+        {
+          "trendId": 12,
+          "botFileName": "unl_isfb_en_future_plans_1_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Future Plans 1"
+        },
+        {
+          "trendId": 13,
+          "botFileName": "unl_isfb_en_future_plans_2_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Future Plans 2"
+        },
+        {
+          "trendId": 14,
+          "botFileName": "unl_isfb_en_asking_questions_1_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Asking Questions 1"
+        },
+        {
+          "trendId": 15,
+          "botFileName": "unl_isfb_en_asking_questions_2_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Asking Questions 2"
+        }
+        ]
     }
   ]
 }
