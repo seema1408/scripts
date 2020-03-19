@@ -1,167 +1,185 @@
 {
-  "productId": 27,
-  "chapters": [
-    {
-      "chapterId": 1,
-      "chapterName": "Interview Skills in MLG Part 1",
-      "topics": [
-         {
-          "trendId": 1,
-          "botFileName": "unl_isfb_en_introducing_yourself_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Introducing Yourself"
-        },
-        {
-          "trendId": 2,
-          "botFileName": "unl_isfb_en_past_experience_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Past Experience"
-        },
+   "productId":27,
+   "chapters":[
+      {
+         "chapterId":1,
+         "chapterName":"Interview Skills in MLG Part 1",
+         "topics":[
+            {
+               "trendId":1,
+               "botFileName":"unl_interview_skills_en_introducing_yourself_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Introducing Yourself"
+            },
+            {
+               "trendId":2,
+               "botFileName":"unl_interview_skills_en_past_experience_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Past Experience"
+            },
+            {
+               "trendId":3,
+               "botFileName":"unl_interview_skills_en_about_the_company_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"About the Company"
+            },
+            {
+               "trendId":4,
+               "botFileName":"unl_interview_skills_en_achievements_part01_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Achievements 1"
+            },
+            {
+               "trendId":5,
+               "botFileName":"unl_interview_skills_en_achievements_part02_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Achievements 2"
+            },
+            {
+               "trendId":6,
+               "botFileName":"unl_interview_skills_en_aptness_for_the_job_part01_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Aptness for the Job 1"
+            },
+            {
+               "trendId":7,
+               "botFileName":"unl_interview_skills_en_aptness_for_the_job_part02_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Aptness for the Job 2"
+            }
+         ]
+      },
+      {
+         "chapterId":2,
+         "chapterName":"Interview Skills in MLG Part 2",
+         "topics":[
+            {
+               "trendId":8,
+               "botFileName":"unl_interview_skills_en_strengths_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Strengths"
+            },
+            {
+               "trendId":9,
+               "botFileName":"unl_interview_skills_en_weaknesses_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Weaknesses"
+            },
+            {
+               "trendId":10,
+               "botFileName":"unl_interview_skills_en_reason_for_leaving_current_job_part01_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Reason for Leaving Current Job 1"
+            },
+            {
+               "trendId":11,
+               "botFileName":"unl_interview_skills_en_reason_for_leaving_current_job_part02_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Reason for Leaving Current Job 2"
+            },
+            {
+               "trendId":12,
+               "botFileName":"unl_interview_skills_en_future_plans_part01_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Future Plans 1"
+            },
+            {
+               "trendId":13,
+               "botFileName":"unl_interview_skills_en_future_plans_part02_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Future Plans 2"
+            },
+            {
+               "trendId":14,
+               "botFileName":"unl_interview_skills_en_asking_questions_part01_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Asking Questions 1"
+            },
+            {
+               "trendId":15,
+               "botFileName":"unl_interview_skills_en_asking_questions_part02_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Asking Questions 2"
+            }
+         ]
+      },
+      {
+         "chapterId":3,
+         "chapterName":"Know About Covid 19",
+         "topics":[
+            {
+               "trendId":16,
+               "botFileName":"mlg_know_about_covid19_en_must_knows",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Must-Knows"
+            },
 {
-          "trendId": 3,
-          "botFileName": "unl_isfb_en_about_the_company_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "About the Company"
-        },
-        {
-          "trendId": 4,
-          "botFileName": "unl_isfb_en_achievements_1_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Achievements 1"
-        },
-         {
-          "trendId": 5,
-          "botFileName": "unl_isfb_en_achievements_2_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Achievements 2"
-        },
-         {
-          "trendId": 6,
-          "botFileName": "unl_isfb_en_aptness_for_the_job_1_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Aptness for the Job 1"
-        },
-        {
-          "trendId": 7,
-          "botFileName": "unl_isfb_en_aptness_for_the_job_2_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Aptness for the Job 2"
-        }
-      ]
-    },
-    {
-      "chapterId": 2,
-      "chapterName": "Interview Skills in MLG Part 2",
-      "topics": [
-        {
-          "trendId": 8,
-          "botFileName": "unl_isfb_en_strengths_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Strengths"
-        },
-         {
-          "trendId": 9,
-          "botFileName": "unl_isfb_en_weaknesses_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Weaknesses"
-        },
-        {
-          "trendId": 10,
-          "botFileName": "unl_isfb_en_reason_for_leaving_current_job_1_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Reason for Leaving Current Job 1"
-        },
-         {
-          "trendId": 11,
-          "botFileName": "unl_isfb_en_reason_for_leaving_current_job_2_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Reason for Leaving Current Job 2"
-        },
-        {
-          "trendId": 12,
-          "botFileName": "unl_isfb_en_future_plans_1_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Future Plans 1"
-        },
-        {
-          "trendId": 13,
-          "botFileName": "unl_isfb_en_future_plans_2_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Future Plans 2"
-        },
-        {
-          "trendId": 14,
-          "botFileName": "unl_isfb_en_asking_questions_1_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Asking Questions 1"
-        },
-        {
-          "trendId": 15,
-          "botFileName": "unl_isfb_en_asking_questions_2_bot_01",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Asking Questions 2"
-        }
-        ]
-    },
-        {
-      "chapterId": 3,
-      "chapterName": "Know About Covid 19",
-      "topics": [
-        {
-          "trendId": 16,
-          "botFileName": "mlg_know_about_covid19_en_must_knows",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Must-Knows"
-        }
-        ]
-    }
-  ]
+               "trendId":17,
+               "botFileName":"mlg_know_about_covid19_en_how_to_self_isolate",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"How to Self Isolate"
+            },
+           {
+               "trendId":18,
+               "botFileName":"mlg_know_about_covid19_en_wfh",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Work From Home Like Pro!"
+            },
+         ]
+      }
+   ]
 }
