@@ -161,8 +161,17 @@
                "isSeparator":0,
                "topic":"Must-Knows"
             },
-{
+            {
                "trendId":17,
+               "botFileName":"mlg_know_about_covid19_en_social_distancing_lockdown",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Social Distancing & Lockdown"
+            },
+{
+               "trendId":18,
                "botFileName":"mlg_know_about_covid19_en_how_to_self_isolate",
                "isLockedTrend":0,
                "isLearnBot":1,
@@ -171,7 +180,7 @@
                "topic":"How to Self Isolate"
             },
            {
-               "trendId":18,
+               "trendId":19,
                "botFileName":"mlg_know_about_covid19_en_wfh_like_a_pro",
                "isLockedTrend":0,
                "isLearnBot":1,
