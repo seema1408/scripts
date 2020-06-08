@@ -187,7 +187,22 @@
                "isTestBot":0,
                "isSeparator":0,
                "topic":"Work From Home Like Pro!"
-            },
+            }
+         ]
+      },
+            {
+         "chapterId":4,
+         "chapterName":"Corp Comm",
+         "topics":[
+            {
+               "trendId":20,
+               "botFileName":"corpcom_making_a_decision_bot_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Making a Decision"
+            }
          ]
       }
    ]
