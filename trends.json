@@ -202,6 +202,165 @@
                "isTestBot":0,
                "isSeparator":0,
                "topic":"Making a Decision"
+            } 
+         ]
+      },
+                  {
+         "chapterId":5,
+         "chapterName":"Sentence Structures: Conditionals",
+         "topics":[
+            {
+               "trendId":21,
+               "botFileName":"ssc_if_tatements_using_could",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"If Statements using 'Could'"
+            },
+                 {
+               "trendId":22,
+               "botFileName":"ssc_if_statements_using_would",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"If Statements using 'Would'"
+            },
+                     {
+               "trendId":23,
+               "botFileName":"ssc_if_statements_using_should",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"If Statements using 'Should'"
+            },
+                   {
+                   "trendId":24,
+               "botFileName":"ssc_if_statements_using_might",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"If Statements using 'Might'"
+            },
+                      {
+                   "trendId":25,
+               "botFileName":"ssc_test_01",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Test 01"
+            },
+                          {
+                   "trendId":26,
+               "botFileName":"ssc_test_02",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Test 02"
+            },
+                              {
+                   "trendId":27,
+               "botFileName":"ssc_basic_conjunctions_1",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Basic Conjunctions 1"
+            },
+                            {
+                   "trendId":28,
+               "botFileName":"ssc_basic_conjunctions_2",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Basic Conjunctions 2"
+            },
+                             {
+                   "trendId":29,
+               "botFileName":"ssc_advanced_conjunctions_1",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Advanced Conjunctions 1"
+            },
+                             {
+                   "trendId":30,
+               "botFileName":"ssc_advanced_conjunctions_2",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Advanced Conjunctions 2"
+            },
+                               {
+                   "trendId":31,
+               "botFileName":"ssc_test_03",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Test 03"
+            },
+                                  {
+                   "trendId":32,
+               "botFileName":"ssc_nor",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Either or & Neither nor"
+            },
+                                       {
+                   "trendId":33,
+               "botFileName":"ssc_also",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Both and & Not only but also"
+            },
+                                             {
+                   "trendId":34,
+               "botFileName":"ssc_sentences_using_rather_than_no_sooner_than",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Rather than & No sooner than"
+            },
+                                                    {
+                   "trendId":35,
+               "botFileName":"ssc_sentences_using_as_as_he_more_the_more",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"As.. as & The more... the more"
+            },
+                          {
+                   "trendId":36,
+               "botFileName":"ssc_test_05",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Test 05"
+            },
+                              {
+                   "trendId":37,
+               "botFileName":"ssc_test_06",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Test 06"
             }
          ]
       }
