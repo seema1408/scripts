@@ -211,7 +211,7 @@
          "topics":[
             {
                "trendId":21,
-               "botFileName":"ssc_if_tatements_using_could",
+               "botFileName":"ssc_if_statements_using_could",
                "isLockedTrend":0,
                "isLearnBot":1,
                "isTestBot":0,
