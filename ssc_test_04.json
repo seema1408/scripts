@@ -361,6 +361,15 @@
                "isTestBot":0,
                "isSeparator":0,
                "topic":"Test 06"
+            },
+                              {
+                   "trendId":38,
+               "botFileName":"ssc_test_04",
+               "isLockedTrend":0,
+               "isLearnBot":1,
+               "isTestBot":0,
+               "isSeparator":0,
+               "topic":"Test 04"
             }
          ]
       }
